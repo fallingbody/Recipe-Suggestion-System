@@ -1,0 +1,25 @@
+Pasta
+Boil water and cook the pasta for 10 minutes.
+4.5
+10
+Pasta grams 200
+Salt grams 10
+Oil ml 20
+END
+Pizza
+Prepare the dough and bake for 15 minutes at 220 degrees Celsius.
+4.0
+8
+Flour grams 300
+Yeast grams 5
+Cheese grams 100
+END
+Salad
+Mix the vegetables and serve chilled.
+5.0
+5
+Lettuce grams 50
+Tomato grams 30
+Cucumber grams 30
+END
+
