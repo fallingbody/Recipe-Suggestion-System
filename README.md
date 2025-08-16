@@ -25,5 +25,3 @@ Manage recipes, store them with file handling, and get smart suggestions — all
   - Dynamic Memory  
 
 ---
-
-## 📂 Project Structure
